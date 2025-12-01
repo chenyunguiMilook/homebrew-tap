@@ -1,7 +1,7 @@
 cask "repomanager" do
   version "1.0.0"
   # 替换为你上传到 Release 的 zip 文件的 SHA256
-  sha256:c3b7a6e63243780a4068f394180051542e8649e23ef5af39f942211978b3b7a4
+  sha256 "c3b7a6e63243780a4068f394180051542e8649e23ef5af39f942211978b3b7a4"
 
   # 替换为你的 GitHub 仓库地址
   url "https://github.com/chenyunguiMilook/RepoManager/releases/download/#{version}/RepoManager.zip"
