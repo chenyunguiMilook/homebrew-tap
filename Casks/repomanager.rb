@@ -1,8 +1,8 @@
 cask "repomanager" do
-  version "2.1"
-  sha256 "a45e0459b67b2f5b11138970132daf60a48fa1a2a3487d33fc968ae7f8c95701"
+  version "2.2"
+  sha256 "9b4021b6dedd70df87a75210f5edba4979890c86ef0b810e2c27c1106e74d67c"
 
-  url "https://github.com/chenyunguiMilook/RepoManager/releases/download/2.1/RepoManager.zip"
+  url "https://github.com/chenyunguiMilook/RepoManager/releases/download/2.2/RepoManager.zip"
   name "repomanager"
   desc ""
   homepage ""
